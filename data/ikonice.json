@@ -1,0 +1,22 @@
+[
+    {
+        "putanja": "https://www.facebook.com/beka.markovic99",
+        "ikonica": "fa fa-facebook"
+    },
+    {
+        "putanja": "https://www.instagram.com/bekamarkoviic",
+        "ikonica": "fa fa-instagram"
+    },
+    {
+        "putanja": "https://twitter.com/bekaa_markovic",
+        "ikonica": "fa fa-twitter"
+    },
+    {
+        "putanja": "sitemap.xml",
+        "ikonica": "fa fa-sitemap"
+    },
+    {
+        "putanja": "documentation.pdf",
+        "ikonica": "fa fa-file-pdf-o"
+    }
+]
