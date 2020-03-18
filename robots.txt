@@ -1,0 +1,3 @@
+Sitemap: https://bekamarkovic.github.io/infofilm/sitemap.xml
+User-agent:*
+Disallow:
