@@ -87,7 +87,7 @@ $(document).ready(function(){
 
     //--------------------  FILM -----------------------------
     for(let i=0; i<=30; i++){
-        if(window.location.href == `http://127.0.0.1:8080/sajt%20web2/film.html?id=${i}`){
+        if(window.location.href == `https://bekamarkovic.github.io/infofilm/film.html?id=${i}`){
             filtrirajFilm();
 
             document.getElementById("ok").addEventListener("click", function(){
@@ -98,7 +98,7 @@ $(document).ready(function(){
     }
 
     //--------------------- WATCHLIST ---------------------------
-    if(window.location.href == "http://127.0.0.1:8080/sajt%20web2/watchlist.html"){
+    if(window.location.href == "https://bekamarkovic.github.io/infofilm/watchlist.html"){
         $("#prazno").hide();
         var filmovi = JSON.parse(localStorage.getItem("filmovi"));
 
