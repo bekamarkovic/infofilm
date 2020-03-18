@@ -283,6 +283,10 @@
     .fa-times {
         margin-top: 2%;
     }
+
+    #forma {
+        width: 90%;
+    }
 }
 
 @media screen and (max-width:480px){
