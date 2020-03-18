@@ -317,6 +317,8 @@ function dodajUWatchlist(){
             id : id
         };
         localStorage.setItem("filmovi", JSON.stringify(filmovi));
+        document.getElementById("textModal").innerHTML = "Movie successfully added to your watchlist!";
+        document.getElementById("popup").style.display = "block";
     }
 
 
