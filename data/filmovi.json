@@ -1,0 +1,1163 @@
+[
+    {
+        "id": 1,
+        "slikaVelika": "images/sonic.jpg",
+        "slikaMala": "images/sonicMala.jpg",
+        "naziv": "Sonic The Hedgehog",
+        "opis": "After discovering a small, blue, fast hedgehog, a small-town police officer must help it defeat an evil genius who wants to do experiments on it.",
+        "ekipa": {
+            "direktor": "Jeff Fowler",
+            "pisci": [
+                "Patrick Casey",
+                "Josh Miller"
+            ],
+            "glumci": [
+                "Ben Schwartz",
+                "James Marsden",
+                "Jim Carrey"
+            ]
+        },
+        "datum": "02-14-2019",
+        "zanrovi": [
+            {
+                "id": 1,
+                "nazivZanra": "Action"
+            },
+            {
+                "id": 2,
+                "nazivZanra": "Adventure"
+            },
+            {
+                "id": 3,
+                "nazivZanra": "Comedy"
+            }
+        ],
+        "ocena": 6.9,
+        "slajder": true,
+        "popularno": 7,
+        "trajanje": 120,
+        "zemlja": "USA",
+        "trailer": "https://www.youtube.com/watch?v=szby7ZHLnkA"
+    },
+    {
+        "id": 2,
+        "slikaVelika": "images/callOfTheWildVelika2.png",
+        "slikaMala": "images/callOfTheWildMala.jpg",
+        "naziv": "Call Of The Wild",
+        "opis": "The Call of the Wild is a 2020 American adventure film based on the Jack London 1903 novel. A sled dog struggles for survival in the wilds of the Yukon.",
+        "ekipa": {
+            "direktor": "Chris Sanders",
+            "pisci": [
+                "Michael Green",
+                "Jack London"
+            ],
+            "glumci": [
+                "Harrison Ford",
+                "Omar Sy",
+                "Cara Gee"
+            ]
+        },
+        "datum": "02-21-2020",
+        "zanrovi": [
+            {
+                "id": 2,
+                "nazivZanra": "Adventure"
+            },
+            {
+                "id": 4,
+                "nazivZanra": "Drama"
+            },
+            {
+                "id": 5,
+                "nazivZanra": "Family"
+            }
+        ],
+        "ocena": 6.8,
+        "slajder": true,
+        "popularno": 19,
+        "trajanje": 120,
+        "zemlja": "USA",
+        "trailer": "https://www.youtube.com/watch?v=h1LG9So2ZBk"
+    },
+    {
+        "id": 3,
+        "slikaVelika": "images/parasiteVelika.jpg",
+        "slikaMala": "images/slika.jpg",
+        "naziv": "Parasite",
+        "opis": "A poor family, the Kims, con their way into becoming the servants of a rich family, the Parks. But their easy life gets complicated when their deception is threatened with exposure.",
+        "ekipa": {
+            "direktor": "Bong Joon Ho",
+            "pisci": [
+                "Bong Joon Ho"
+            ],
+            "glumci": [
+                "Kang-ho Song",
+                "Sun-kyun Lee",
+                "Yeo-jeong Jo"
+            ]
+        },
+        "datum": "05-30-2019",
+        "zanrovi": [
+            {
+                "id": 3,
+                "nazivZanra": "Comedy"
+            },
+            {
+                "id": 4,
+                "nazivZanra": "Drama"
+            },
+            {
+                "id": 6,
+                "nazivZanra": "Thriller"
+            }
+        ],
+        "ocena": 8.6,
+        "slajder": true,
+        "popularno": 1,
+        "trajanje": 120,
+        "zemlja": "USA",
+        "trailer": "https://www.youtube.com/watch?v=5xH0HfJHsaY"
+    },
+    {
+        "id": 4,
+        "slikaVelika": "images/1917Velika.jpg",
+        "slikaMala": "images/1917Mala.jpg",
+        "naziv": "1917",
+        "opis": "April 6th, 1917. As a regiment assembles to wage war deep in enemy territory, two soldiers are assigned to race against time and deliver a message that will stop 1,600 men from walking straight into a deadly trap.",
+        "ekipa": {
+            "direktor": "Sam Mendes",
+            "pisci": [
+                "Sam Mendes",
+                "Krysty Wilson-Cairns"
+            ],
+            "glumci": [
+                "Dean-Charles Chapman",
+                "George MacKay",
+                "Daniel Mays"
+            ]
+        },
+        "datum": "01-10-2020",
+        "zanrovi": [
+            {
+                "id": 4,
+                "nazivZanra": "Drama"
+            },
+            {
+                "id": 7,
+                "nazivZanra": "War"
+            }
+        ],
+        "ocena": 8.5,
+        "slajder": false,
+        "popularno": 14,
+        "trajanje": 120,
+        "zemlja": "USA",
+        "trailer": "https://www.youtube.com/watch?v=YqNYrYUiMfg"
+    },
+    {
+        "id": 5,
+        "slikaVelika": "images/jokerVelika.jpg",
+        "slikaMala": "images/jokerMala.jpg",
+        "naziv": "Joker",
+        "opis": "In Gotham City, mentally troubled comedian Arthur Fleck is disregarded and mistreated by society. He then embarks on a downward spiral of revolution and bloody crime. This path brings him face-to-face with his alter-ego: the Joker.",
+        "ekipa": {
+            "direktor": "Todd Phillips",
+            "pisci": [
+                "Todd Phillips",
+                "Scott Silver"
+            ],
+            "glumci": [
+                "Joaquin Phoenix", 
+                "Robert De Niro", 
+                "Zazie Beetz"
+            ]
+        },
+        "datum": "10-04-2019",
+        "zanrovi": [
+            {
+                "id": 8,
+                "nazivZanra": "Crime"
+            },
+            {
+                "id": 4,
+                "nazivZanra": "Drama"
+            },
+            {
+                "id": 6,
+                "nazivZanra": "Thriller"
+            }
+        ],
+        "ocena": 8.6,
+        "slajder": true,
+        "popularno": 2,
+        "trajanje": 122,
+        "zemlja": "USA",
+        "trailer": "https://www.youtube.com/watch?v=zAGVQLHvwOY"
+    },
+    {
+        "id": 6,
+        "slikaVelika": "images/irishmanVelika.jpg",
+        "slikaMala": "images/irishmanMala.jpg",
+        "naziv": "The Irishman",
+        "opis": "A mob hitman recalls his friend Jimmy Hoffa.",
+        "ekipa": {
+            "direktor": "Martin Scorsese",
+            "pisci": [
+                "Steven Zaillian",
+                "Charles Brandt"
+            ],
+            "glumci": [
+                "Robert De Niro", 
+                "Al Pacino",
+                "Joe Pesci"
+            ]
+        },
+        "datum": "11-27-2019",
+        "zanrovi": [
+            {
+                "id": 9,
+                "nazivZanra": "Biography"
+            },
+            {
+                "id": 8,
+                "nazivZanra": "Crime"
+            },
+            {
+                "id": 4,
+                "nazivZanra": "Drama"
+            }
+        ],
+        "ocena": 8.0,
+        "slajder": true,
+        "popularno": 5,
+        "trajanje": 209,
+        "zemlja": "USA",
+        "trailer": "https://www.youtube.com/watch?v=RS3aHkkfuEI"
+    },
+    {
+        "id": 7,
+        "slikaVelika": "images/frozenVelika.jpg",
+        "slikaMala": "images/frozenMala.jpg",
+        "naziv": "Frozen II",
+        "opis": "Anna, Elsa, Kristoff, Olaf and Sven leave Arendelle to travel to an ancient, autumn-bound forest of an enchanted land. They set out to find the origin of Elsa's powers in order to save their kingdom.",
+        "ekipa": {
+            "direktor": "Chris Buck",
+            "pisci": [
+                "Jennifer Lee"
+            ],
+            "glumci": [
+                "Kristen Bell", 
+                "Idina Menzel",
+                "Josh Gad"
+            ]
+        },
+        "datum": "11-22-2019",
+        "zanrovi": [
+            {
+                "id": 2,
+                "nazivZanra": "Adventure"
+            },
+            {
+                "id": 10,
+                "nazivZanra": "Animation"
+            },
+            {
+                "id": 3,
+                "nazivZanra": "Comedy"
+            } 
+        ],
+        "ocena": 7.1,
+        "slajder": false,
+        "popularno": 3,
+        "trajanje": 103,
+        "zemlja": "USA",
+        "trailer": "https://www.youtube.com/watch?v=bwzLiQZDw2I"
+    },
+    {
+        "id": 8,
+        "slikaVelika": "images/betmenVelika.jpeg",
+        "slikaMala": "images/betmenMala.jpg",
+        "naziv": "The Dark Knight",
+        "opis": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+        "ekipa": {
+            "direktor": "Christopher Nolan",
+            "pisci": [
+                "Jonathan Nolan", 
+                "Christopher Nolan"
+            ],
+            "glumci": [
+                "Christian Bale",
+                "Heath Ledger", 
+                "Aaron Eckhart"
+            ]
+        },
+        "datum": "07-24-2008",
+        "zanrovi": [
+            {
+                "id": 1,
+                "nazivZanra": "Action"
+            },
+            {
+                "id": 8,
+                "nazivZanra": "Crime"
+            },
+            {
+                "id": 4,
+                "nazivZanra": "Drama"
+            }
+        ],
+        "ocena": 9.0,
+        "slajder": false,
+        "popularno": 17,
+        "trajanje": 152,
+        "zemlja": "USA",
+        "trailer": "https://www.youtube.com/watch?v=EXeTwQWrcwY"
+    },
+    {
+        "id": 9,
+        "slikaVelika": "images/interstellarVelika.jpg",
+        "slikaMala": "images/interstellarMala.jpg",
+        "naziv": "Interstellar",
+        "opis": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+        "ekipa": {
+            "direktor": "Christopher Nolan",
+            "pisci": [
+                "Christopher Nolan",
+                "Johnathan Nolan"
+            ],
+            "glumci": [
+                "Matthew McConaughey",
+                "Anne Hathaway",
+                "Jessica Chastain"
+            ]
+        },
+        "datum": "11-06-2014",
+        "zanrovi": [
+            {
+                "id": 2,
+                "nazivZanra": "Adventure"
+            },
+            {
+                "id": 4,
+                "nazivZanra": "Drama"
+            },
+            {
+                "id": 11,
+                "nazivZanra": "Sci-Fi"
+            }
+        ],
+        "ocena": 8.6,
+        "slajder": false,
+        "popularno": 21,
+        "trajanje": 169,
+        "zemlja": "USA",
+        "trailer": "https://www.youtube.com/watch?v=zSWdZVtXT7E"
+    },
+    {
+        "id": 10,
+        "slikaVelika": "images/inceptionVelika.jpg",
+        "slikaMala": "images/inceptionMala.jpg",
+        "naziv": "Inception",
+        "opis": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+        "ekipa": {
+            "direktor": "Christopher Nolan",
+            "pisci": [
+                "Christopher Nolan"
+            ],
+            "glumci": [
+                "Leonardo DiCaprio",
+                "Joseph Gordon-Levitt", 
+                "Ellen Page"
+            ]
+        },
+        "datum": "07-22-2010",
+        "zanrovi": [
+            {
+                "id": 1,
+                "nazivZanra": "Action"
+            },
+            {
+                "id": 2,
+                "nazivZanra": "Adventure"
+            },
+            {
+                "id": 11,
+                "nazivZanra": "Sci-Fi"
+            }
+        ],
+        "ocena": 8.8,
+        "slajder": false,
+        "popularno": 13,
+        "trajanje": 148,
+        "zemlja": "USA",
+        "trailer": "https://www.youtube.com/watch?v=YoHD9XEInc0"
+    },
+    {
+        "id": 11,
+        "slikaVelika": "images/kumVelika.jpg",
+        "slikaMala": "images/kumMala.jpg",
+        "naziv": "The Godfather",
+        "opis": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+        "ekipa": {
+            "direktor": "Francis Ford Coppola",
+            "pisci": [
+                "Francis Ford Coppola",
+                "Mario Puzo"
+            ],
+            "glumci": [
+                "Marlon Brando",
+                "Al Pacino",
+                "James Caan"
+            ]
+        },
+        "datum": "03-24-1972",
+        "zanrovi": [
+            {
+                "id": 8,
+                "nazivZanra": "Crime"
+            },
+            {
+                "id": 4,
+                "nazivZanra": "Drama"
+            }
+        ],
+        "ocena": 9.2,
+        "slajder": false,
+        "popularno": 11,
+        "trajanje": 175,
+        "zemlja": "USA",
+        "trailer": "https://www.youtube.com/watch?v=sY1S34973zA"
+    },
+    {
+        "id": 12,
+        "slikaVelika": "images/forrestVelika.jpg",
+        "slikaMala": "images/forrestMala.jpg",
+        "naziv": "Forrest Gump",
+        "opis": "The presidencies of Kennedy and Johnson, the events of Vietnam, Watergate, and other historical events unfold through the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood sweetheart.",
+        "ekipa": {
+            "direktor": "Robert Zemeckis",
+            "pisci": [
+                "Winston Groom",
+                "Eric Roth"
+            ],
+            "glumci": [
+                "Tom Hanks",
+                "Robin Wright", 
+                "Gary Sinise"
+            ]
+        },
+        "datum": "07-06-1994",
+        "zanrovi": [
+            {
+                "id": 4,
+                "nazivZanra": "Drama"
+            },
+            {
+                "id": 12,
+                "nazivZanra": "Romance"
+            }
+        ],
+        "ocena": 8.8,
+        "slajder": false,
+        "popularno": 28,
+        "trajanje": 142,
+        "zemlja": "USA",
+        "trailer": "https://www.youtube.com/watch?v=uPIEn0M8su0"
+    },
+    {
+        "id": 13,
+        "slikaVelika": "images/endgameVelika.jpg",
+        "slikaMala": "images/endgameMala.jpg",
+        "naziv": "Avengers: Endgame",
+        "opis": "After the devastating events of Avengers: Infinity war, the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+        "ekipa": {
+            "direktor": "Anthony Russo",
+            "pisci": [
+                "Christopher Markus",
+                "Stephen McFeely"
+            ],
+            "glumci": [
+                "Robert Downey Jr.", 
+                "Chris Evans", 
+                "Mark Ruffalo"
+            ]
+        },
+        "datum": "04-25-2019",
+        "zanrovi": [
+            {
+                "id": 1,
+                "nazivZanra": "Action"
+            },
+            {
+                "id": 2,
+                "nazivZanra": "Adventure"
+            },
+            {
+                "id": 4,
+                "nazivZanra": "Drama"
+            }
+        ],
+        "ocena": 8.5,
+        "slajder": false,
+        "popularno": 4,
+        "trajanje": 181,
+        "zemlja": "USA",
+        "trailer": "https://www.youtube.com/watch?v=TcMBFSGVi1c"
+    },
+    {
+        "id": 14,
+        "slikaVelika": "images/dolittleVelika.jpg",
+        "slikaMala": "images/dolittleMala.png",
+        "naziv": "Dolittle",
+        "opis": "A physician who can talk to animals embarks on an adventure to find a legendary island with a young apprentice and a crew of strange pets.",
+        "ekipa": {
+            "direktor": "Stephen Gaghan",
+            "pisci": [
+                "Stephen Gaghan",
+                "Dan Gregor" 
+            ],
+            "glumci": [
+                "Robert Downey Jr.",
+                "Antonio Banderas",
+                "Michael Sheen"
+            ]
+        },
+        "datum": "01-09-2020",
+        "zanrovi": [
+            {
+                "id": 2,
+                "nazivZanra": "Adventure"
+            },
+            {
+                "id": 3,
+                "nazivZanra": "Comedy"
+            },
+            {
+                "id": 5,
+                "nazivZanra": "Family"
+            }
+        ],
+        "ocena": 5.5,
+        "slajder": false,
+        "popularno": 9,
+        "trajanje": 101,
+        "zemlja": "USA",
+        "trailer": "https://www.youtube.com/watch?v=hej47fWFLQs"
+    },
+    {
+        "id": 15,
+        "slikaVelika": "images/womenVelika.jpg",
+        "slikaMala": "images/womenMala.jpg",
+        "naziv": "Little Women",
+        "opis": "Jo March reflects back and forth on her life, telling the beloved story of the March sisters - four young women each determined to live life on their own terms.",
+        "ekipa": {
+            "direktor": "Greta Gerwig",
+            "pisci": [
+                "Greta Gerwig",
+                "Louisa May Alcott"
+            ],
+            "glumci": [
+                "Saoirse Ronan", 
+                "Emma Watson", 
+                "Florence Pugh"
+            ]
+        },
+        "datum": "12-25-2019",
+        "zanrovi": [
+            {
+                "id": 4,
+                "nazivZanra": "Drama"
+            },
+            {
+                "id": 12,
+                "nazivZanra": "Romance"
+            }
+        ],
+        "ocena": 8.0,
+        "slajder": false,
+        "popularno": 6,
+        "trajanje": 135,
+        "zemlja": "USA",
+        "trailer": "https://www.youtube.com/watch?v=AST2-4db4ic"
+    },
+    {
+        "id": 16,
+        "slikaVelika": "images/birdsVelika.jpg",
+        "slikaMala": "images/birdsMala.jpg",
+        "naziv": "Birds Of Prey",
+        "opis": "After splitting with the Joker, Harley Quinn joins superheroes Black Canary, Huntress and Renee Montoya to save a young girl from an evil crime lord.",
+        "ekipa": {
+            "direktor": "Cathy Yan",
+            "pisci": [
+                "Christina Hodson",
+                "Paul Dini"
+            ],
+            "glumci": [
+                "Margot Robbie",
+                "Rosie Perez", 
+                "Mary Elizabeth Winstead"
+            ]
+        },
+        "datum": "02-06-2020",
+        "zanrovi": [
+            {
+                "id": 1,
+                "nazivZanra": "Action"
+            },
+            {
+                "id": 2,
+                "nazivZanra": "Adventure"
+            },
+            {
+                "id": 8,
+                "nazivZanra": "Crime"
+            }
+        ],
+        "ocena": 6.6,
+        "slajder": true,
+        "popularno": 10,
+        "trajanje": 109,
+        "zemlja": "USA",
+        "trailer": "https://www.youtube.com/watch?v=x3HbbzHK5Mc"
+    },
+    {
+        "id": 17,
+        "slikaVelika": "images/lionVelika.jpg",
+        "slikaMala": "images/lionMala.jpg",
+        "naziv": "The Lion King",
+        "opis": "A Lion cub crown prince is tricked by a treacherous uncle into thinking he caused his father's death and flees into exile in despair, only to learn in adulthood his identity and his responsibilities.",
+        "ekipa": {
+            "direktor": "Roger Allers",
+            "pisci": [
+                "Irene Mecchi",
+                "Johnathan Roberts"
+            ],
+            "glumci": [
+                "Matthew Broderick", 
+                "Jeremy Irons", 
+                "James Earl Jones"
+            ]
+        },
+        "datum": "06-24-1994",
+        "zanrovi": [
+            {
+                "id": 2,
+                "nazivZanra": "Adventure"
+            },
+            {
+                "id": 10,
+                "nazivZanra": "Animation"
+            },
+            {
+                "id": 4,
+                "nazivZanra": "Drama"
+            }
+        ],
+        "ocena": 8.5,
+        "slajder": false,
+        "popularno": 23,
+        "trajanje": 98,
+        "zemlja": "USA",
+        "trailer": "https://www.youtube.com/watch?v=lFzVJEksoDY"
+    },
+    {
+        "id": 18,
+        "slikaVelika": "images/aladinVelika.jpg",
+        "slikaMala": "images/aladinMala.jpg",
+        "naziv": "Aladdin",
+        "opis": "A kindhearted street urchin and a power-hungry Grand Vizier vie for a magic lamp that has the power to make their deepest wishes come true.",
+        "ekipa": {
+            "direktor": "John Musker",
+            "pisci": [
+                "Ron Clements",
+                "John Musker"
+            ],
+            "glumci": [
+                "Scott Weinger", 
+                "Robin Williams",
+                "Linda Larkin"
+            ]
+        },
+        "datum": "11-25-1992",
+        "zanrovi": [
+            {
+                "id": 2,
+                "nazivZanra": "Adventure"
+            },
+            {
+                "id": 10,
+                "nazivZanra": "Animation"
+            },
+            {
+                "id": 3,
+                "nazivZanra": "Comedy"
+            }
+        ],
+        "ocena": 8.0,
+        "slajder": false,
+        "popularno": 30,
+        "trajanje": 90,
+        "zemlja": "USA",
+        "trailer": "https://www.youtube.com/watch?v=8HrmBXgiwDU"
+    },
+    {
+        "id": 19,
+        "slikaVelika": "images/mementoVelika.jpg",
+        "slikaMala": "images/mementoMala.jpg",
+        "naziv": "Memento",
+        "opis": "A man with short-term memory loss attempts to track down his wife's murderer.",
+        "ekipa": {
+            "direktor": "Christopher Nolan",
+            "pisci": [
+                "Christopher Nolan",
+                "Johnathan Nolan"
+            ],
+            "glumci": [
+                "Guy Pearce", 
+                "Carrie-Anne Moss",
+                "Joe Pantoliano"
+            ]
+        },
+        "datum": "05-25-2001",
+        "zanrovi": [
+            {
+                "id": 2,
+                "nazivZanra": "Mystery"
+            },
+            {
+                "id": 13,
+                "nazivZanra": "Thriller"
+            }
+        ],
+        "ocena": 8.4,
+        "slajder": false,
+        "popularno": 18,
+        "trajanje": 113,
+        "zemlja": "USA",
+        "trailer": "https://www.youtube.com/watch?v=0vS0E9bBSL0"
+    },
+    {
+        "id": 20,
+        "slikaVelika": "images/pianistVelika.jpg",
+        "slikaMala": "images/pianistMala.jpg",
+        "naziv": "Pianist",
+        "opis": "A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II.",
+        "ekipa": {
+            "direktor": "Roman Polanski",
+            "pisci": [
+                "Ronald Harwood", 
+                "Wladyslaw Szpilman"
+            ],
+            "glumci": [
+                "Adrien Brody",
+                "Thomas Kretschmann",
+                "Frank Finlay"
+            ]
+        },
+        "datum": "09-25-2002",
+        "zanrovi": [
+            {
+                "id": 9,
+                "nazivZanra": "Biography"
+            },
+            {
+                "id": 4,
+                "nazivZanra": "Drama"
+            },
+            {
+                "id": 14,
+                "nazivZanra": "Music"
+            }
+        ],
+        "ocena": 8.5,
+        "slajder": false,
+        "popularno": 27,
+        "trajanje": 150,
+        "zemlja": "USA",
+        "trailer": "https://www.youtube.com/watch?v=BFwGqLa_oAo"
+    },
+    {
+        "id": 21,
+        "slikaVelika": "images/walleVelika.jpg",
+        "slikaMala": "images/walleMala.jpg",
+        "naziv": "WALL-E",
+        "opis": "In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind.",
+        "ekipa": {
+            "direktor": "Andrew Stanton",
+            "pisci": [
+                "Andrew Stanton", 
+                "Pete Docter"
+            ],
+            "glumci": [
+                "Ben Burtt",
+                "Elissa Knight", 
+                "Jeff Garlin"
+            ]
+        },
+        "datum": "08-28-2008",
+        "zanrovi": [
+            {
+                "id": 2,
+                "nazivZanra": "Adventure"
+            },
+            {
+                "id": 10,
+                "nazivZanra": "Animation"
+            },
+            {
+                "id": 5,
+                "nazivZanra": "Family"
+            }
+        ],
+        "ocena": 8.4,
+        "slajder": false,
+        "popularno": 22,
+        "trajanje": 98,
+        "zemlja": "USA",
+        "trailer": "https://www.youtube.com/watch?v=8-_9n5DtKOc"
+    },
+    {
+        "id": 22,
+        "slikaVelika": "images/shutterVelika.jpg",
+        "slikaMala": "images/shutterMala.jpg",
+        "naziv": "Shutter Island",
+        "opis": "In 1954, a U.S. Marshal investigates the disappearance of a murderer who escaped from a hospital for the criminally insane.",
+        "ekipa": {
+            "direktor": "Martin Scorsese",
+            "pisci": [
+                "Laeta Kalogridis",
+                "Dennis Lehane"
+            ],
+            "glumci": [
+                "Leonardo DiCaprio",
+                "Emily Mortimer",
+                "Mark Ruffalo"
+            ]
+        },
+        "datum": "03-11-2010",
+        "zanrovi": [
+            {
+                "id": 13,
+                "nazivZanra": "Mystery"
+            },
+            {
+                "id": 6,
+                "nazivZanra": "Thriller"
+            }
+        ],
+        "ocena": 8.1,
+        "slajder": false,
+        "popularno": 24,
+        "trajanje": 138,
+        "zemlja": "USA",
+        "trailer": "https://www.youtube.com/watch?v=5iaYLCiq5RM"
+    },
+    {
+        "id": 23,
+        "slikaVelika": "images/sawVelika.jpg",
+        "slikaMala": "images/sawMala.jpg",
+        "naziv": "Saw",
+        "opis": "Two strangers, who awaken in a room with no recollection of how they got there, soon discover they're pawns in a deadly game perpetrated by a notorious serial killer.",
+        "ekipa": {
+            "direktor": "James Wan",
+            "pisci": [
+                "Leigh Whannell",
+                "James Wan"
+            ],
+            "glumci": [
+                "Cary Elwes",
+                "Leigh Whanne", 
+                "Danny Glover"
+            ]
+        },
+        "datum": "10-29-2004",
+        "zanrovi": [
+            {
+                "id": 15,
+                "nazivZanra": "Horror"
+            },
+            {
+                "id": 13,
+                "nazivZanra": "Mystery"
+            },
+            {
+                "id": 6,
+                "nazivZanra": "Thriller"
+            }
+        ],
+        "ocena": 7.6,
+        "slajder": false,
+        "popularno": 29,
+        "trajanje": 103,
+        "zemlja": "USA",
+        "trailer": "https://www.youtube.com/watch?v=S-1QgOMQ-ls"
+    },
+    {
+        "id": 24,
+        "slikaVelika": "images/mileVelika.jpg",
+        "slikaMala": "images/mileMala.jpg",
+        "naziv": "8 Mile",
+        "opis": "A young rapper, struggling with every aspect of his life, wants to make it big but his friends and foes make this odyssey of rap harder than it may seem.",
+        "ekipa": {
+            "direktor": "Curtis Hanson",
+            "pisci": [
+                "Scott Silver"
+            ],
+            "glumci": [
+                "Eminem",
+                "Brittany Murphy",
+                "Anthony Mackie"
+            ]
+        },
+        "datum": "11-08-2002",
+        "zanrovi": [
+            {
+                "id": 4,
+                "nazivZanra": "Drama"
+            },
+            {
+                "id": 14,
+                "nazivZanra": "Music"
+            }
+        ],
+        "ocena": 7.1,
+        "slajder": false,
+        "popularno": 12,
+        "trajanje": 110,
+        "zemlja": "USA",
+        "trailer": "https://www.youtube.com/watch?v=axGVrfwm9L4"
+    },
+    {
+        "id": 25,
+        "slikaVelika": "images/placeVelika.jpg",
+        "slikaMala": "images/placeMala.png",
+        "naziv": "A Quiet Place",
+        "opis": "In a post-apocalyptic world, a family is forced to live in silence while hiding from monsters with ultra-sensitive hearing.",
+        "ekipa": {
+            "direktor": "John Krasinski",
+            "pisci": [
+                "Bryan Woods",
+                "Scott Beck"
+            ],
+            "glumci": [
+                "Emily Blunt",
+                "John Krasinski", 
+                "Milicent Simmonds"
+            ]
+        },
+        "datum": "04-12-2018",
+        "zanrovi": [
+            {
+                "id": 4,
+                "nazivZanra": "Drama"
+            },
+            {
+                "id": 15,
+                "nazivZanra": "Horror"
+            },
+            {
+                "id": 11,
+                "nazivZanra": "Sci-Fi"
+            }
+        ],
+        "ocena": 7.5,
+        "slajder": false,
+        "popularno": 8,
+        "trajanje": 90,
+        "zemlja": "USA",
+        "trailer": "https://www.youtube.com/watch?v=p9wE8dyzEJE"
+    },
+    {
+        "id": 26,
+        "slikaVelika": "images/listaVelika.jpg",
+        "slikaMala": "images/listaMala.jpg",
+        "naziv": "Schindler's List",
+        "opis": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+        "ekipa": {
+            "direktor": "Steven Spielberg",
+            "pisci": [
+                "Thomas Keneally",
+                "Steven Zaillian" 
+            ],
+            "glumci": [
+                "Liam Neeson",
+                "Ralph Fiennes",
+                "Ben Kingsley"
+            ]
+        },
+        "datum": "02-04-1994",
+        "zanrovi": [
+            {
+                "id": 9,
+                "nazivZanra": "Biography"
+            },
+            {
+                "id": 4,
+                "nazivZanra": "Drama"
+            },
+            {
+                "id": 7,
+                "nazivZanra": "War"
+            }
+        ],
+        "ocena": 8.9,
+        "slajder": false,
+        "popularno": 15,
+        "trajanje": 195,
+        "zemlja": "USA",
+        "trailer": "https://www.youtube.com/watch?v=gG22XNhtnoY"
+    },
+    {
+        "id": 27,
+        "slikaVelika": "images/fellasVelika.jpg",
+        "slikaMala": "images/fellasMala.jpg",
+        "naziv": "Goodfellas",
+        "opis": "The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito in the Italian-American crime syndicate.",
+        "ekipa": {
+            "direktor": "Martin Scorsese",
+            "pisci": [
+                "Nicholas Pileggi" 
+            ],
+            "glumci": [
+                "Robert De Niro",
+                "Ray Liotta",
+                "Joe Pesci"
+            ]
+        },
+        "datum": "09-21-1990",
+        "zanrovi": [
+            {
+                "id": 9,
+                "nazivZanra": "Biography"
+            },
+            {
+                "id": 8,
+                "nazivZanra": "Crime"
+            },
+            {
+                "id": 4,
+                "nazivZanra": "Drama"
+            }
+        ],
+        "ocena": 8.7,
+        "slajder": false,
+        "popularno": 25,
+        "trajanje": 146,
+        "zemlja": "USA",
+        "trailer": "https://www.youtube.com/watch?v=qo5jJpHtI1Y"
+    },
+    {
+        "id": 28,
+        "slikaVelika": "images/comptonVelika.jpg",
+        "slikaMala": "images/comptonMala.jpg",
+        "naziv": "Straight Outta Compton",
+        "opis": "The rap group NWA emerges from the mean streets of Compton in Los Angeles, California, in the mid-1980s and revolutionizes Hip Hop culture with their music and tales about life in the hood.",
+        "ekipa": {
+            "direktor": "F. Gary Gray",
+            "pisci": [
+                "Johnathan Herman",
+                "Andrea Berloff" 
+            ],
+            "glumci": [
+                "O'Shea Jackson Jr.",
+                "Corey Hawkins",
+                "Jason Mitchell"
+            ]
+        },
+        "datum": "08-14-2015",
+        "zanrovi": [
+            {
+                "id": 9,
+                "nazivZanra": "Biography"
+            },
+            {
+                "id": 4,
+                "nazivZanra": "Drama"
+            },
+            {
+                "id": 14,
+                "nazivZanra": "Music"
+            }
+        ],
+        "ocena": 7.9,
+        "slajder": false,
+        "popularno": 20,
+        "trajanje": 147,
+        "zemlja": "USA",
+        "trailer": "https://www.youtube.com/watch?v=oyoew4T74_w"
+    },
+    {
+        "id": 29,
+        "slikaVelika": "images/paranormalVelika.jpeg",
+        "slikaMala": "images/paranormalMala.jpg",
+        "naziv": "Paranormal Activity",
+        "opis": "After moving into a suburban home, a couple becomes increasingly disturbed by a nightly demonic presence..",
+        "ekipa": {
+            "direktor": "Oren Peli",
+            "pisci": [
+                "Oren Peli"
+            ],
+            "glumci": [
+                "Katie Featherston",
+                "Micah Sloat",
+                "Mark Fredrichs"
+            ]
+        },
+        "datum": "10-16-2009",
+        "zanrovi": [
+            {
+                "id": 15,
+                "nazivZanra": "Horror"
+            },
+            {
+                "id": 13,
+                "nazivZanra": "Mystery"
+            },{
+                "id": 6,
+                "nazivZanra": "Thriller"
+            }
+        ],
+        "ocena": 6.3,
+        "slajder": false,
+        "popularno": 26,
+        "trajanje": 86,
+        "zemlja": "USA",
+        "trailer": "https://www.youtube.com/watch?v=F_UxLEqd074"
+    },
+    {
+        "id": 30,
+        "slikaVelika": "images/notebookVelika.jpg",
+        "slikaMala": "images/notebookMala.jpg",
+        "naziv": "The Notebook",
+        "opis": "A poor yet passionate young man falls in love with a rich young woman, giving her a sense of freedom, but they are soon separated because of their social differences.",
+        "ekipa": {
+            "direktor": "Nick Cassavetes",
+            "pisci": [
+                "Jeremy Leven",
+                "Jan Sardi" 
+            ],
+            "glumci": [
+                "Gena Rowlands",
+                "James Garner",
+                "Rachel McAdams"
+            ]
+        },
+        "datum": "06-25-2004",
+        "zanrovi": [
+            {
+                "id": 4,
+                "nazivZanra": "Drama"
+            },
+            {
+                "id": 12,
+                "nazivZanra": "Romance"
+            }
+        ],
+        "ocena": 7.8,
+        "slajder": false,
+        "popularno": 16,
+        "trajanje": 123,
+        "zemlja": "USA",
+        "trailer": "https://www.youtube.com/watch?v=FC6biTjEyZw"
+    }
+]
