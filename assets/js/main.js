@@ -1,6 +1,6 @@
 $(document).ready(function(){
 
-    if( window.location.href =="http://127.0.0.1:8080/sajt%20web2/" || window.location.href == "http://127.0.0.1:8080/sajt%20web2/index.html" || window.location.href == "http://127.0.0.1:8080/sajt%20web2/index.html#filmovi" || window.location.href == "http://127.0.0.1:8080/sajt%20web2/index.html#autor2"){
+    if( window.location.href =="https://bekamarkovic.github.io/infofilm/" || window.location.href == "https://bekamarkovic.github.io/infofilm/index.html" || window.location.href == "https://bekamarkovic.github.io/infofilm/index.html#filmovi" || window.location.href == "https://bekamarkovic.github.io/infofilm/index.html#autor2"){
 
         ajaxFilmovi(
             function(filmovi){
