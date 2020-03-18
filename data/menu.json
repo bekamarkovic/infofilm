@@ -1,0 +1,18 @@
+[
+    {
+        "tekst": "Home",
+        "putanja": "index.html"
+    },
+    {
+        "tekst": "Movies",
+        "putanja": "index.html#filmovi"
+    },
+    {
+        "tekst": "Watchlist",
+        "putanja": "watchlist.html"
+    },
+    {
+        "tekst": "Author",
+        "putanja": "index.html#autor2"
+    }
+]
