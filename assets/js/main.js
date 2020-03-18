@@ -49,15 +49,6 @@ $(document).ready(function(){
         })
     }
 
-    $("#lista").hide();
-    $(".fa-bars").click(function(){
-        $('#lista').slideToggle();
-    })
-    $("#lista > ul > li").click(function(){
-        $("#lista").slideToggle();
-    })
-
-
     $.ajax({
         url: "data/ikonice.json",
         method: "GET",
@@ -83,6 +74,15 @@ $(document).ready(function(){
             console.error(err);
         }
     })
+
+    $("#lista").hide();
+    $(".fa-bars").click(function(){
+        $('#lista').slideToggle();
+    })
+    $(document).on('click', '.lielement', function(){ 
+        $('#lista').slideToggle();
+   }); 
+
 
 
     //--------------------  FILM -----------------------------
@@ -126,7 +126,7 @@ function meni(x, data){
     let ispis = "";
 
     data.forEach(el => {
-        ispis += `<li><a href="${el.putanja}">${el.tekst}</a></li>`;
+        ispis += `<li class="lielement"><a href="${el.putanja}">${el.tekst}</a></li>`;
     })
 
     x.innerHTML = ispis;
