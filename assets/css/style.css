@@ -84,8 +84,8 @@ a{
 .watchlist {
     margin-left: 37%;
     position: absolute;
-    bottom: 3%;
-    right: 5%;
+    bottom: 2%;
+    right: 3%;
     background-color: #ffff;
     border: none;
     width: 42%;
@@ -249,8 +249,8 @@ img {
 
 span {
     position: absolute;
-    bottom: 3%;
-    left: 5%;
+    bottom: 2%;
+    left: 3%;
     font-size: 19px;
 }
 
@@ -539,8 +539,8 @@ th:first-child {
 
 #ok {
     position: absolute;
-    bottom: 20%;
-    right: 20%;
+    bottom: 3%;
+    right: 5%;
     width: 10%;
     padding: 1%;
 }
