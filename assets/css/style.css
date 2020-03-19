@@ -539,8 +539,8 @@ th:first-child {
 
 #ok {
     position: absolute;
-    bottom: 20;
-    right: 20;
+    bottom: 20%;
+    right: 20%;
     width: 10%;
     padding: 1%;
 }
