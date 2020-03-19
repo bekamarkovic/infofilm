@@ -84,8 +84,8 @@ a{
 .watchlist {
     margin-left: 37%;
     position: absolute;
-    bottom: 7;
-    right: 7;
+    bottom: 7%;
+    right: 7%;
     background-color: #ffff;
     border: none;
     width: 42%;
@@ -125,7 +125,7 @@ a{
     text-align: right;
 }
 
-#logo h1 {
+#logo p {
     font-size: 35px;
     margin-top: 10px;
     margin-right: 8%;
