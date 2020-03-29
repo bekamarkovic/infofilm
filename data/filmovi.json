@@ -721,11 +721,11 @@
         "datum": "05-25-2001",
         "zanrovi": [
             {
-                "id": 2,
+                "id": 13,
                 "nazivZanra": "Mystery"
             },
             {
-                "id": 13,
+                "id": 6,
                 "nazivZanra": "Thriller"
             }
         ],
