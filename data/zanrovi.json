@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "naziv": "Action"
+    },
+    {
+        "id": 2,
+        "naziv": "Adventure"
+    },
+    {
+        "id": 3,
+        "naziv": "Comedy"
+    },
+    {
+        "id": 4,
+        "naziv": "Drama"
+    },
+    {
+        "id": 5,
+        "naziv": "Family"
+    },
+    {
+        "id": 6,
+        "naziv": "Thriller"
+    },
+    {
+        "id": 7,
+        "naziv": "War"
+    },
+    {
+        "id": 8,
+        "naziv": "Crime"
+    },
+    {
+        "id": 9,
+        "naziv": "Biography"
+    },
+    {
+        "id": 10,
+        "naziv": "Animation"
+    },
+    {
+        "id": 11,
+        "naziv": "Sci-fi"
+    },
+    {
+        "id": 12,
+        "naziv": "Romance"
+    },
+    {
+        "id": 13,
+        "naziv": "Mystery"
+    },
+    {
+        "id": 14,
+        "naziv": "Music"
+    },
+    {
+        "id": 15,
+        "naziv": "Horror"
+    }
+]
