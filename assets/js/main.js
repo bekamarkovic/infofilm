@@ -6,9 +6,20 @@ $(document).ready(function(){
             function(filmovi){
                 ispisiSlajderFilmove(filmovi);
                 ispisFilmove(filmovi);
-                ispisiZanrove(filmovi);
             }
         )
+
+        $.ajax({
+            url: "data/zanrovi.json",
+            method: "get",
+            type: "json",
+            success: function(zanrovi){
+                ispisiZanrove(zanrovi);
+            },
+            error: function(xhr, err, status){
+                console.log(status);
+            }
+        })
 
 
         slajder();
@@ -331,25 +342,18 @@ function dodajUWatchlist(){
 
 function ispisiZanrove(zanrovi){
     let ispis = "";
-    var nizZanrova = [];
 
-    zanrovi.forEach(element => {
-        element.zanrovi.forEach(el => {
-            if(!nizZanrova.includes(el.nazivZanra)){
-                nizZanrova.push(el.nazivZanra);
-            }
-        })
-    })
-
-    nizZanrova.sort((a, b) => {
-        if(a == b) 
+    zanrovi.sort((a, b) => {
+        if(a.naziv == b.naziv) 
             return 0
-        return a > b ? 1 : -1;
+        return a .naziv > b.naziv ? 1 : -1;
     })
 
-    nizZanrova.forEach(z => {
-        ispis += `<li><input type="checkbox" value="${z}" name="zanrovi"/> ${z}</li>`;
+
+    zanrovi.forEach(z => {
+        ispis += `<li><input type="checkbox" value="${z.id}" name="zanrovi"/> ${z.naziv}</li>`;
     })
+
 
     document.getElementById("listaZanrova").innerHTML = ispis;
     $("#listaZanrova li input").change(filtrirajPoZanru);
@@ -360,12 +364,12 @@ var nizIzabranih = [];
 var nizFiltriranih = [];
 
 function filtrirajPoZanru(){
-    var naziv = this.value;
-    if(!nizIzabranih.includes(naziv)){
-        nizIzabranih.push(naziv);
+    var id = this.value;
+    if(!nizIzabranih.includes(id)){
+        nizIzabranih.push(id);
     }
     else {
-        const odcekirano = nizIzabranih.filter(el => el != naziv)
+        const odcekirano = nizIzabranih.filter(el => el != id)
         nizIzabranih = odcekirano;
     }
 
@@ -376,7 +380,7 @@ function filtrirajPoZanru(){
                 const filtrirano = filmovi.filter(f=>{
                     return f.zanrovi.some(zanr => {
                         for (let i of nizIzabranih){
-                            if(zanr.nazivZanra==i){
+                            if(zanr.id==i){
                                 return true;
                             }
                         }
